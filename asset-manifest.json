@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-tea-shop/static/css/main.073c9b0a.css",
+    "main.js": "/react-tea-shop/static/js/main.b4d78495.js",
+    "static/js/787.c9cb4df6.chunk.js": "/react-tea-shop/static/js/787.c9cb4df6.chunk.js",
+    "static/media/logo.svg": "/react-tea-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-tea-shop/index.html",
+    "main.073c9b0a.css.map": "/react-tea-shop/static/css/main.073c9b0a.css.map",
+    "main.b4d78495.js.map": "/react-tea-shop/static/js/main.b4d78495.js.map",
+    "787.c9cb4df6.chunk.js.map": "/react-tea-shop/static/js/787.c9cb4df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b4d78495.js"
+  ]
+}
