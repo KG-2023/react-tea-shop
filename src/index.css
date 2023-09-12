@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+/* ELEMENT SELECTORS */
+body{   
+     background-image: url('https://github.com/KG-2023/Activity-Images-2023/blob/main/pexels-nikolay-osmachko-230477.jpg?raw=true');
+     background-size: cover;
+     background-repeat: no-repeat;
+     text-align: center;
+     font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}

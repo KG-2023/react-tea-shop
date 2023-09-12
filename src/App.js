@@ -48,7 +48,7 @@ function App() {
             </section>
             <hr class="bottom-line" />
             <footer>
-                <p><a href="#">Visit our website</a></p>
+                <p><a href="https://kg-2023.github.io/react-tea-shop/">Visit our website</a></p>
                 <p>0001 Marilao, Bulacan</p>
             </footer>
         </main>
