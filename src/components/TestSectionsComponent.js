@@ -1,5 +1,6 @@
 const TestSectionsComponent = () => {
-    return (<>
+    return (
+    <>
     <section>
     <h2>Tea</h2>
     <article className="teaItem">
@@ -34,3 +35,5 @@ const TestSectionsComponent = () => {
     </article>
 </section></>)
 }
+
+export default TestSectionsComponent
