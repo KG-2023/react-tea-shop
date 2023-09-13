@@ -1,14 +1,13 @@
 // import logo from './logo.svg';
 // import './App.css';
+import Header from './components/Header';
+
 
 function App() {
   return (
     <div className="App">
       <div className="teaMenu">
-        <header>
-            <h1 className="animate__animated animate__backInLeft" >RL Teashop</h1>
-            <p className="established">Service since 2022</p>
-        </header>
+        <Header/>
         <hr className="top-line" />
         <main>
            
