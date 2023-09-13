@@ -71,3 +71,46 @@ a:hover {
 a:active {
   color: #0000FF;
 }
+
+.teaMenu{
+  background-color: rgba(228, 202, 168, 0.397);
+  padding: 20px;
+  max-width: 500px;
+}
+
+.top-line{
+  width: 50%;
+}
+
+
+.established{
+  font-style: italic;
+}
+
+.teaItem p{
+  /* background-color: green; */
+  display: inline-block;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+}
+
+.teaFlavor, .teaCollection{
+  /* background-color: orangered; */
+  text-align: left;
+  width: 75%;
+}
+
+
+.teaPrice, .collectionPrice{
+  /* background-color: yellow; */
+  text-align: right;
+  width: 25%;
+}
+
+
+.bottom-line{
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
