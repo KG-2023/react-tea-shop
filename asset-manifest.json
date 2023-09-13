@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tea-shop/static/css/main.ea5c4fdf.css",
-    "main.js": "/react-tea-shop/static/js/main.8ec78850.js",
+    "main.css": "/react-tea-shop/static/css/main.1269e784.css",
+    "main.js": "/react-tea-shop/static/js/main.71d8f3a1.js",
     "static/js/787.c9cb4df6.chunk.js": "/react-tea-shop/static/js/787.c9cb4df6.chunk.js",
     "index.html": "/react-tea-shop/index.html",
-    "main.ea5c4fdf.css.map": "/react-tea-shop/static/css/main.ea5c4fdf.css.map",
-    "main.8ec78850.js.map": "/react-tea-shop/static/js/main.8ec78850.js.map",
+    "main.1269e784.css.map": "/react-tea-shop/static/css/main.1269e784.css.map",
+    "main.71d8f3a1.js.map": "/react-tea-shop/static/js/main.71d8f3a1.js.map",
     "787.c9cb4df6.chunk.js.map": "/react-tea-shop/static/js/787.c9cb4df6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5c4fdf.css",
-    "static/js/main.8ec78850.js"
+    "static/css/main.1269e784.css",
+    "static/js/main.71d8f3a1.js"
   ]
 }
